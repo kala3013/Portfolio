@@ -31,11 +31,11 @@
   <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 
   <!-- Stylesheets -->
-  <link rel="stylesheet" href="src/css/variables.css">
-  <link rel="stylesheet" href="src/css/base.css">
-  <link rel="stylesheet" href="src/css/components.css">
-  <link rel="stylesheet" href="src/css/sections.css">
-  <link rel="stylesheet" href="src/css/dev-mode.css">
+  <link rel="stylesheet" href="/src/css/variables.css">
+  <link rel="stylesheet" href="/src/css/base.css">
+  <link rel="stylesheet" href="/src/css/components.css">
+  <link rel="stylesheet" href="/src/css/sections.css">
+  <link rel="stylesheet" href="/src/css/dev-mode.css">
 
   <!-- Structured Data: Schema.org Person -->
   <script type="application/ld+json">
@@ -124,6 +124,20 @@
       INITIALIZING PORTFOLIO...
     </div>
   </div>
+  <script>
+    (function() {
+      function dismissPreloader() {
+        var p = document.getElementById('preloader');
+        if (p) {
+          p.style.opacity = '0';
+          p.style.pointerEvents = 'none';
+          setTimeout(function() { if (p && p.parentNode) p.parentNode.removeChild(p); }, 400);
+        }
+      }
+      window.addEventListener('load', function() { setTimeout(dismissPreloader, 100); });
+      setTimeout(dismissPreloader, 1500);
+    })();
+  </script>
 
   <!-- Ambient Glow Effects & Subtle Code Background -->
   <div class="ambient-bg" aria-hidden="true">
@@ -1151,6 +1165,6 @@ const developer = {
   <div id="toast-container" class="toast-container" aria-live="polite"></div>
 
   <!-- Application Bootstrap -->
-  <script type="module" src="src/js/main.js"></script>
+  <script type="module" src="/src/js/main.js"></script>
 </body>
 </html>

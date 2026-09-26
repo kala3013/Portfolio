@@ -3,6 +3,12 @@
  * Initializes 3D Core, Custom Cursor, Magnetic CTAs, Terminal, Case Studies, Certifications, and Navigation
  */
 
+import '../css/variables.css';
+import '../css/base.css';
+import '../css/components.css';
+import '../css/sections.css';
+import '../css/dev-mode.css';
+
 import { personalInfo, recruiterHighlights, skillsData, internshipData, achievementsData, leadershipData, educationData, careerTimeline, personalStrengths } from './data/portfolioData.js';
 import { initTheme } from './modules/theme.js';
 import { initNavigation } from './modules/navigation.js';
@@ -25,53 +31,61 @@ import { initContact } from './modules/contact.js';
 import { initEasterEgg } from './modules/easterEgg.js';
 import { trackEvent } from './utils/analytics.js';
 
-document.addEventListener('DOMContentLoaded', () => {
-  // 1. Core Visual & Interactive Systems
-  initTheme();
-  initNavigation();
-  initScrollProgress();
-  initCustomCursor();
-  initDevMode();
-  initCommandPalette();
-  initTerminal();
-  initProjects();
-  initArchitectureVisualizer();
-  initTechStackShowcase();
-  initAboutNarrative();
-  initCertifications();
-  initResumeViewer();
-  initAiAssistant();
-  initContact();
-  initEasterEgg();
+function initApp() {
+  try {
+    // 1. Core Visual & Interactive Systems
+    initTheme();
+    initNavigation();
+    initScrollProgress();
+    initCustomCursor();
+    initDevMode();
+    initCommandPalette();
+    initTerminal();
+    initProjects();
+    initArchitectureVisualizer();
+    initTechStackShowcase();
+    initAboutNarrative();
+    initCertifications();
+    initResumeViewer();
+    initAiAssistant();
+    initContact();
+    initEasterEgg();
 
-  // 2. 3D Developer Core, Motion Engine & Magnetic Micro-interactions
-  initHero3D();
-  initMagneticButtons();
-  initMotion();
+    // 2. 3D Developer Core, Motion Engine & Magnetic Micro-interactions
+    initHero3D();
+    initMagneticButtons();
+    initMotion();
 
-  // 3. Dynamic Content Ingestion
-  renderRecruiterRibbon();
-  renderSkillsDashboard();
-  renderStrengths();
-  renderInternship();
-  renderCareerTimeline();
-  renderAchievements();
-  renderLeadership();
-  renderEducation();
-
-  // 4. Remove Preloader
-  const preloader = document.getElementById('preloader');
-  if (preloader) {
-    setTimeout(() => {
+    // 3. Dynamic Content Ingestion
+    renderRecruiterRibbon();
+    renderSkillsDashboard();
+    renderStrengths();
+    renderInternship();
+    renderCareerTimeline();
+    renderAchievements();
+    renderLeadership();
+    renderEducation();
+  } catch (err) {
+    console.error('Initialization error:', err);
+  } finally {
+    // 4. Always Remove Preloader - Guaranteed
+    const preloader = document.getElementById('preloader');
+    if (preloader) {
       preloader.style.opacity = '0';
       preloader.style.pointerEvents = 'none';
       setTimeout(() => preloader.remove(), 350);
-    }, 150);
+    }
   }
 
   // 5. Initial Visit Analytics
   trackEvent('portfolio_loaded', { userAgent: navigator.userAgent.substring(0, 50) });
-});
+}
+
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', initApp);
+} else {
+  initApp();
+}
 
 /**
  * Render the 10-Second Recruiter Ribbon with 1-Click Jump Anchors
