@@ -98,7 +98,7 @@
       to { transform: rotate(360deg); }
     }
   </style>
-  <script type="module" crossorigin src="./assets/main-B-p3AqDE.js"></script>
+  <script type="module" crossorigin src="./assets/main-DP3PKPMP.js"></script>
   <link rel="stylesheet" crossorigin href="./assets/main-Y-xV4Gsa.css">
 </head>
 
@@ -121,6 +121,20 @@
       INITIALIZING PORTFOLIO...
     </div>
   </div>
+  <script>
+    (function() {
+      function dismissPreloader() {
+        var p = document.getElementById('preloader');
+        if (p) {
+          p.style.opacity = '0';
+          p.style.pointerEvents = 'none';
+          setTimeout(function() { if (p && p.parentNode) p.parentNode.removeChild(p); }, 400);
+        }
+      }
+      window.addEventListener('load', function() { setTimeout(dismissPreloader, 100); });
+      setTimeout(dismissPreloader, 1500);
+    })();
+  </script>
 
   <!-- Ambient Glow Effects & Subtle Code Background -->
   <div class="ambient-bg" aria-hidden="true">
