@@ -1,22 +1,55 @@
-
-
-# ⚡ Kalanidhi M C — Interactive Developer Portfolio
-
-> **A high-end interactive developer portfolio built to present software engineering skills, projects, technical learning, achievements, and professional growth through a modern developer-focused experience.**
-
 <div align="center">
 
-### `SOFTWARE DEVELOPMENT` · `FULL STACK` · `AI` · `CLOUD` · `DEVOPS`
+# ⚡ KALANIDHI M C
+
+### Software Developer · Full Stack Developer · AI Explorer · Cloud & DevOps Enthusiast
+
+<p>
+  <b>Building practical software while exploring AI, Cloud & DevOps.</b>
+</p>
+
+<p>
+  <a href="https://kala3013.github.io/kalanidhi-portfolio/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Website">
+  </a>
+  <a href="https://github.com/kala3013">
+    <img src="https://img.shields.io/badge/GitHub-kala3013-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/kalanidhi-m-c-b568782a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kalanidhi%20M%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kalanidhimurugan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/kala3013/kalanidhi-portfolio/actions/workflows/deploy.yml">
+    <img src="https://github.com/kala3013/kalanidhi-portfolio/actions/workflows/deploy.yml/badge.svg" alt="Deployment Status">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Always%20Live-22c55e?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20ES%20Modules-3b82f6?style=flat-square" alt="Stack">
+  <img src="https://img.shields.io/badge/Responsive-Yes-22c55e?style=flat-square" alt="Responsive">
+  <img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License">
+</p>
+
+<br>
+
+> **A high-end interactive developer portfolio engineered to showcase software projects, technical skills, engineering thinking, and professional growth.**
+> 
+> 🌐 **Live Website Link:** **[https://kala3013.github.io/kalanidhi-portfolio/](https://kala3013.github.io/kalanidhi-portfolio/)**
+
+<br>
 
 </div>
 
 ---
 
-## 🧭 Project Overview
+## 🧑‍💻 About
 
-This repository contains my personal developer portfolio, designed as more than a traditional resume website.
+**Kalanidhi M C** is a Computer Science & Engineering student focused on **Software Development and Full Stack Engineering**, with additional interests in **Artificial Intelligence, Cloud Computing, and DevOps**.
 
-The goal is to create an experience where visitors can quickly understand:
+This portfolio is designed not simply as a personal website, but as an **interactive engineering showcase** that allows recruiters, developers, and hiring managers to quickly understand:
 
 ```text
 WHO I AM
@@ -32,139 +65,114 @@ WHAT I HAVE LEARNED
 HOW TO CONNECT WITH ME
 ```
 
-The portfolio combines:
-
-- Modern frontend engineering
-- Interactive UI
-- Responsive design
-- Developer-oriented navigation
-- Project case studies
-- Technical architecture visualization
-- Interactive terminal concepts
-- Command-based navigation
-- Developer mode
-- AI-oriented portfolio exploration
-- Resume access
-- Contact experience
-- Performance-conscious visual effects
-
----
-
-# 🎯 Portfolio Goals
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     PORTFOLIO OBJECTIVES                     │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│ 01  Communicate professional identity quickly                │
-│ 02  Showcase practical software projects                     │
-│ 03  Demonstrate full-stack development skills                │
-│ 04  Present AI and cloud learning                            │
-│ 05  Explain engineering decisions                            │
-│ 06  Provide recruiter-friendly navigation                    │
-│ 07  Create an interactive developer experience               │
-│ 08  Keep information accessible across devices              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# 👨‍💻 About Me
-
-**Kalanidhi M C** is a Computer Science & Engineering student focused on **Software Development and Full Stack Engineering**, with additional interests in **Artificial Intelligence, Cloud Computing, and DevOps**.
-
-I enjoy building practical applications, experimenting with new technologies, understanding system architecture, and continuously improving my development workflow.
-
 ### 🎓 Education
 
-**B.E. Computer Science & Engineering — Lateral Entry**
-
+**B.E. Computer Science & Engineering — Lateral Entry**  
 Anna University Regional Campus, Coimbatore  
 `2024 – 2027` · **CGPA: 8.01 / 10**
 
-**Diploma in Computer Engineering**
-
+**Diploma in Computer Engineering**  
 Konghu Velalar Polytechnic College  
 `2024` · **93% — Distinction**
 
-### 📍 Location
+### 📍 Based In
 
-`Tirupur, Tamil Nadu, India`
+**Tirupur, Tamil Nadu, India**
 
 ---
 
-# 🚀 Portfolio Experience
+# ✨ Portfolio Experience
 
-The website follows a developer-first information architecture.
+This portfolio is built around a **developer-first interactive experience** rather than a conventional static resume website.
+
+### 🚀 Core Experience
 
 ```text
-                    KALANIDHI M C
-                          │
-          ┌───────────────┼───────────────┐
-          ↓               ↓               ↓
-       Recruiter       Developer        Explorer
-          │               │               │
-          ↓               ↓               ↓
-       Quick View     Deep Technical    Interactive
-          │               │               │
-          └───────────────┼───────────────┘
-                          ↓
-                    Portfolio Core
+┌───────────────────────────────────────────────────────────┐
+│                    KALANIDHI M C                          │
+│                                                           │
+│       SOFTWARE DEVELOPER · FULL STACK · AI · CLOUD        │
+├───────────────────────────────────────────────────────────┤
+│                                                           │
+│  01  Recruiter Quick View                                │
+│  02  Interactive Developer Core                          │
+│  03  Developer Terminal                                  │
+│  04  Project Case Studies                                │
+│  05  System Architecture                                │
+│  06  Skill Constellation                                │
+│  07  Developer Mode                                     │
+│  08  AI Portfolio Assistant                             │
+│  09  Resume & Contact                                   │
+│  10  Interactive Easter Eggs                            │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
-
-### Core Experience
-
-| Module | Purpose |
-|---|---|
-| ⚡ Recruiter View | Quickly understand profile and capabilities |
-| 🧠 Developer View | Explore technical implementation |
-| 💻 Terminal | Developer-style portfolio interaction |
-| ⌘ Command Palette | Fast keyboard navigation |
-| 🏗️ Architecture | Visualize system design concepts |
-| 🧩 Skills Explorer | Explore technology categories |
-| 📂 Projects | Understand practical development work |
-| 🤖 AI Assistant | Explore configured portfolio information |
-| 🛠️ Developer Mode | Reveal deeper technical information |
-| 📄 Resume | Access professional resume |
-| 📬 Contact | Provide direct communication |
-| 🎮 Easter Egg | Add a developer-oriented interactive detail |
 
 ---
 
-# 🌌 Interactive Developer Core
+# 🧠 Key Features
 
-The portfolio concept includes an interactive visual representation of the technologies used across my development journey.
+## ⚡ 01 — Recruiter 10-Second View
+
+A dedicated recruiter-first information layer designed to communicate the most important information immediately.
+
+Highlights:
+
+- Candidate identity
+- Primary technical direction
+- Education
+- Internship experience
+- Core technologies
+- Projects
+- Certifications
+- Achievements
+- Contact information
+- Resume access
+
+The goal is simple:
+
+> **Understand the candidate before scrolling through the entire portfolio.**
+
+---
+
+## 🌌 02 — Interactive 3D Developer Core
+
+A futuristic developer visualization built around an interactive 3D core.
+
+### Technology Nodes
 
 ```text
-                         ┌──────────────┐
-                         │    React     │
-                         └──────┬───────┘
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-      ┌──────▼──────┐    ┌──────▼──────┐    ┌──────▼──────┐
-      │     AI      │    │  Developer  │    │   Cloud     │
-      └─────────────┘    │    Core     │    └─────────────┘
-                         └──────┬──────┘
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-       ┌─────▼─────┐      ┌─────▼─────┐      ┌─────▼─────┐
-       │  Node.js  │      │   MySQL   │      │  Docker   │
-       └───────────┘      └───────────┘      └───────────┘
+                    ┌──────── React
+                    │
+              AI ───┤
+                    │
+        Node.js ─── ◉ ─── MySQL
+                    │
+              Cloud ┤
+                    │
+                  Docker
 ```
 
-Where supported, interactive 3D experiences can use **Three.js / WebGL** while maintaining a practical fallback for constrained devices.
+### Interaction
+
+- 360° mouse interaction
+- Touch drag support
+- Orbiting technology nodes
+- Parallax movement
+- Depth and perspective
+- Smooth motion
+- Responsive rendering
+- Performance-conscious fallback
+
+Where supported, the experience uses **Three.js / WebGL-based rendering**, while maintaining a lightweight fallback for constrained devices.
 
 ---
 
-# 💻 Developer Terminal
+# 💻 03 — Interactive Developer Terminal
 
-The portfolio includes a developer-style terminal concept for navigating portfolio information.
+The portfolio contains an interactive terminal inspired by modern developer environments.
 
-### Commands
+### Available Commands
 
 ```bash
 help
@@ -182,31 +190,43 @@ clear
 sudo hire kalanidhi
 ```
 
-### Terminal Capabilities
+### Terminal Features
 
-```text
-Command Input
-     ↓
-Command Parser
-     ↓
-Command Matching
-     ↓
-Portfolio Data
-     ↓
-Formatted Output
-     ↓
-Interactive Navigation
+- Command history
+- Up / Down arrow navigation
+- Command suggestions
+- Quick command buttons
+- Keyboard interaction
+- Section navigation
+- Developer-style visual feedback
+
+Example:
+
+```bash
+$ skills
+
+Java
+C
+JavaScript
+React
+Node.js
+Express.js
+MySQL
+MongoDB
+Firebase
+Docker
+Jenkins
+Google Cloud
+AWS
+Terraform
+Generative AI
 ```
-
-The terminal is designed to make portfolio exploration feel familiar to developers while keeping the information accessible.
 
 ---
 
-# ⌘ Command Palette
+# ⌘ 04 — Command Palette
 
-Keyboard-first navigation provides rapid access to major portfolio sections.
-
-### Shortcut
+Press:
 
 ```text
 Ctrl + K
@@ -218,71 +238,71 @@ or
 Cmd + K
 ```
 
-### Navigation
+to open the global command palette.
+
+The command palette provides fast navigation across:
 
 ```text
-┌──────────────────────────────┐
-│       COMMAND PALETTE        │
-├──────────────────────────────┤
-│ > About                      │
-│ > Skills                     │
-│ > Projects                   │
-│ > Experience                 │
-│ > Education                  │
-│ > Certifications             │
-│ > Achievements               │
-│ > Resume                     │
-│ > Contact                    │
-│ > Developer Mode             │
-│ > Theme                      │
-└──────────────────────────────┘
+About
+Skills
+Projects
+Experience
+Education
+Certifications
+Achievements
+Resume
+Contact
+GitHub
+LinkedIn
+Developer Mode
+Theme
 ```
+
+### Designed For
+
+- Recruiters
+- Developers
+- Technical reviewers
+- Keyboard-first users
+- Power users
 
 ---
 
-# 🏗️ System Architecture
+# 🏗️ 05 — Interactive System Architecture
 
-The portfolio is structured around a modular frontend architecture.
+The portfolio visualizes backend architecture as an interactive multi-tier system.
 
 ```text
-                    ┌─────────────────────┐
-                    │       Browser       │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │     index.html      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │      main.js        │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ↓                 ↓                 ↓
-      ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
-      │ Navigation  │   │   Projects  │   │   Terminal  │
-      └─────────────┘   └─────────────┘   └─────────────┘
-             │                 │                 │
-             └─────────────────┼─────────────────┘
-                               ↓
-                    ┌─────────────────────┐
-                    │   Portfolio Data    │
-                    └──────────┬──────────┘
-                               │
-             ┌─────────────────┼─────────────────┐
-             ↓                 ↓                 ↓
-       ┌───────────┐     ┌───────────┐     ┌───────────┐
-       │   Theme   │     │ AI Module │     │ Dev Mode  │
-       └───────────┘     └───────────┘     └───────────┘
+┌───────────────────────────────┐
+│       CLIENT TIER             │
+│       React / Web UI          │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│       API & AUTH GATEWAY       │
+│       REST APIs / JWT          │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│ CONTROLLER & BUSINESS LOGIC   │
+│       Node / Express          │
+└───────────────┬───────────────┘
+                ↓
+┌───────────────────────────────┐
+│       DATA PERSISTENCE         │
+│      MySQL / MongoDB           │
+└───────────────────────────────┘
 ```
+
+The visualizer allows visitors to inspect architecture concepts progressively instead of presenting a static diagram.
 
 ---
 
-# 🧩 Skill Ecosystem
+# 🧩 06 — Interactive Skill Explorer
 
-## Languages
+Technical skills are organized into an interactive ecosystem.
+
+### Languages
 
 ```text
 Java
@@ -290,16 +310,16 @@ C
 JavaScript
 ```
 
-## Frontend
+### Frontend
 
 ```text
+React.js
 HTML5
 CSS3
-React.js
 Flutter
 ```
 
-## Backend
+### Backend
 
 ```text
 Node.js
@@ -308,7 +328,7 @@ REST APIs
 JWT
 ```
 
-## Databases
+### Databases
 
 ```text
 MySQL
@@ -316,16 +336,7 @@ MongoDB
 Firebase
 ```
 
-## AI
-
-```text
-Generative AI
-LLM Concepts
-AI Agents
-CrewAI
-```
-
-## Cloud & DevOps
+### Cloud & DevOps
 
 ```text
 Google Cloud
@@ -337,7 +348,16 @@ Terraform
 CI/CD
 ```
 
-## Tools
+### AI
+
+```text
+Generative AI
+LLM Concepts
+AI Agents
+CrewAI
+```
+
+### Tools
 
 ```text
 Git
@@ -347,101 +367,56 @@ Android Studio
 Figma
 ```
 
----
-
-# 🛠️ Technology Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies"/>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" alt="Backend and Database Technologies"/>
-
-### AI, Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=python,docker,jenkins,gcp,aws,terraform" alt="AI Cloud and DevOps Technologies"/>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools"/>
-
-</div>
+Clicking a technology can dynamically connect it to relevant portfolio projects.
 
 ---
 
-# 🚀 Engineering Projects
+# 🚀 Featured Engineering Projects
 
-The portfolio brings together practical work across software development, full-stack applications, AI experimentation, databases, and cloud/DevOps learning.
+The portfolio focuses on practical projects across **Full Stack Development, AI, Backend Engineering, Databases, and Cloud/DevOps learning**.
 
-| # | Project | Technical Focus |
+| # | Project | Focus |
 |---|---|---|
-| 01 | **TalentRank AI** | AI · Candidate Ranking · Data Intelligence |
-| 02 | **AI Code Analyzer** | Code Analysis · AI Agents · CrewAI |
-| 03 | **Thamarai Fertility Hospital** | Full Stack · Node.js · MySQL · JWT |
-| 04 | **Certificate Generation System** | PHP · MySQL · Automation |
-| 05 | **Pediatric Hospital Management** | Healthcare · Software Development |
+| 01 | **Candidate Ranking System** | Candidate / Recruitment Technology |
+| 02 | **AI Code Analyzer** | AI · Code Analysis · CrewAI |
+| 03 | **Thamarai Fertility Hospital Management System** | Full Stack · Backend · Database |
+| 04 | **Automated Certificate Generation System** | PHP · MySQL · Automation |
+| 05 | **Pediatric Hospital Management System** | Healthcare · Software Development |
 | 06 | **Research Answer Bot** | AI · Research Assistance |
 | 07 | **Cloud & DevOps Practice** | Cloud · Docker · CI/CD · Terraform |
 
-> Project descriptions should reflect the implementation available in each corresponding repository.
+> Project descriptions and technical claims should always reflect the actual implementation available in the corresponding repository.
 
 ---
 
 # 🤖 AI Code Analyzer
 
-An AI-oriented code analysis project exploring modular approaches to source-code analysis and correction.
-
-### Concept
-
-```text
-                  SOURCE CODE
-                       │
-                       ▼
-              ┌─────────────────┐
-              │  CODE ANALYZER  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ CODE CORRECTOR  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │     MANAGER     │
-              └────────┬────────┘
-                       │
-                       ▼
-                 OUTPUT CODE
-```
+An AI-oriented code analysis project exploring intelligent assistance for source-code analysis.
 
 ### Focus
 
 ```text
-AI Concepts
-Code Analysis
-Modular Architecture
-Agent-Based Workflows
-CrewAI Exploration
+AI
+│
+├── Code Analysis
+├── LLM Concepts
+├── AI Agents
+└── CrewAI
 ```
 
 ### Repository
 
 <a href="https://github.com/kala3013/crewai-code-anayzer">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AI Code Analyzer Repository">
 </a>
 
 ---
 
 # 🏥 Thamarai Fertility Hospital Management System
 
-A healthcare-oriented full-stack application focused on backend architecture, authentication, database operations, and multi-branch organization.
+A healthcare-oriented web application focused on backend services, authentication, database management, and multi-branch architecture.
 
-### Technology
+### Technology Focus
 
 ```text
 Node.js
@@ -451,37 +426,34 @@ JWT
 REST APIs
 ```
 
-### Architecture Concept
+### Branch Architecture Concept
 
 ```text
-                       CENTRAL SYSTEM
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-        Coimbatore        Chennai           Salem
-             │                │                │
-             └────────────────┼────────────────┘
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-                 Tiruppur            Pollachi
+                    ┌── Coimbatore
+                    │
+                    ├── Chennai
+                    │
+Central System ─────┼── Salem
+                    │
+                    ├── Tiruppur
+                    │
+                    └── Pollachi
 ```
 
-### Engineering Concepts
+The project demonstrates concepts including:
 
-- REST API development
+- Backend API development
 - Authentication
 - Database operations
 - Role-based access concepts
-- Multi-branch architecture
-- Healthcare information management
+- Multi-branch application structure
+- Healthcare-oriented information management
 
 ---
 
 # 📑 Automated Certificate Generation System
 
-A PHP and MySQL-based application designed to manage certificate-related records and simplify certificate processing workflows.
+A PHP and MySQL-based application designed to manage certificate-related records and simplify certificate generation workflows.
 
 ### Technology
 
@@ -490,19 +462,17 @@ PHP
 MySQL
 HTML
 CSS
-CRUD
-Form Processing
 Database Management
+Form Processing
+CRUD Operations
 ```
 
-### Workflow
+### Core Concept
 
 ```text
 Student / Record
        ↓
 Data Entry
-       ↓
-Validation
        ↓
 Database
        ↓
@@ -513,104 +483,95 @@ Generated Output
 
 ---
 
-# ☁️ Cloud & DevOps Learning
+# ☁️ Cloud & DevOps Practice
 
-The portfolio also documents hands-on learning across cloud and DevOps technologies.
+A dedicated area of the portfolio showcasing hands-on learning and experimentation across modern cloud and DevOps technologies.
+
+### Technologies
 
 ```text
-Cloud Platforms
-     │
-     ├── Google Cloud
-     ├── AWS
-     └── Oracle Cloud
-            │
-            ▼
-     Infrastructure
-            │
-            └── Terraform
-            │
-            ▼
-       Containers
-            │
-            └── Docker
-            │
-            ▼
-       Automation
-            │
-            └── Jenkins
-            │
-            ▼
-          CI/CD
+Google Cloud
+AWS
+Oracle Cloud
+Docker
+Jenkins
+Terraform
+CI/CD
 ```
 
-Learning/practice work is intentionally separated from production project claims.
+The portfolio separates **learning/practice experience** from production project claims to maintain truthful technical positioning.
 
 ---
 
-# 🔬 Project Case Study Framework
+# 🔬 07 — Detailed Project Case Studies
 
-Projects can be presented using a structured engineering framework:
+Project case studies are structured into nine technical layers:
 
 ```text
 01  Overview
-       ↓
 02  Problem
-       ↓
 03  Solution
-       ↓
-04  Technology Selection
-       ↓
-05  Architecture
-       ↓
-06  Implementation
-       ↓
-07  Challenges
-       ↓
-08  Learning
-       ↓
+04  Technologies
+05  System Architecture
+06  Implemented Features
+07  Development Details
+08  What I Learned
 09  Future Improvements
 ```
 
-This helps communicate not only **what was built**, but also the reasoning behind the implementation.
+This transforms a project from:
+
+```text
+"Here is my project."
+```
+
+into:
+
+```text
+"Here is the problem.
+Here is how I designed the solution.
+Here is the architecture.
+Here are the technologies.
+Here is what I implemented.
+Here is what I learned."
+```
 
 ---
 
-# 🤖 Portfolio AI Assistant
+# 🧠 08 — Ask My Portfolio
 
-The portfolio architecture includes an AI-oriented assistant concept for exploring configured portfolio information.
+An optional portfolio assistant provides a conversational way to explore verified candidate information.
 
-### Information Flow
+### Grounding Principle
 
 ```text
 Portfolio Data
       ↓
-Verified Knowledge
+Verified Knowledge Base
       ↓
 Question Processing
       ↓
-Relevant Context
+Relevant Information
       ↓
 Response
 ```
 
-### Grounding Principle
+### Zero-Hallucination Design
 
-The assistant should respond only using explicitly configured portfolio information.
+The assistant should answer only from explicitly configured portfolio data.
 
-It should not invent:
+It should **not invent**:
 
-```text
-❌ Projects
-❌ Certifications
-❌ Technologies
-❌ Experience
-❌ Awards
-❌ Metrics
-❌ Companies
-❌ Project Results
-```
+- Projects
+- Technologies
+- Job experience
+- Certifications
+- Awards
+- Metrics
+- Company experience
+- Project outcomes
 
-When information is unavailable:
+If information is unavailable:
 
 ```text
 "I don't have verified information about that in my portfolio data."
@@ -618,14 +579,14 @@ When information is unavailable:
 
 ---
 
-# 🛠️ Developer Mode
+# 🛠️ 09 — Developer Mode
 
-Developer Mode is designed to expose deeper technical information beyond the recruiter-facing experience.
+A dedicated **Developer Mode** exposes deeper engineering information.
 
-### Recruiter Layer
+### Recruiter Mode
 
 ```text
-Profile
+Impact
 Projects
 Experience
 Achievements
@@ -634,7 +595,7 @@ Resume
 Contact
 ```
 
-### Developer Layer
+### Developer Mode
 
 ```text
 Architecture
@@ -643,105 +604,123 @@ Database Concepts
 Technical Decisions
 Implementation Details
 Technology Relationships
-Engineering Concepts
+Engineering Overlays
 ```
 
-This creates two complementary experiences:
+The two modes allow the same portfolio to serve both:
 
-```text
-Recruiter
-   ↓
-Fast Understanding
+**Recruiters →** fast professional overview
 
-Developer
-   ↓
-Technical Exploration
-```
+**Developers →** deeper technical exploration
 
 ---
 
-# 📬 Contact Experience
+# 📬 10 — Contact Experience
 
-The contact layer focuses on simple interaction and accessibility.
+The contact section is designed around simple and secure interaction.
 
 ### Features
 
-```text
-Direct Email
-Copy-to-Clipboard
-Client-Side Validation
-Honeypot Protection
-Accessible Controls
-Responsive Layout
-User Feedback
-```
+- Direct email
+- Copy-to-clipboard
+- Toast feedback
+- Client-side validation
+- Honeypot spam protection
+- Accessible form controls
+- Mobile-friendly layout
 
 ### Contact
 
+**Kalanidhi M C**
+
 ```text
-Kalanidhi M C
-Tirupur, Tamil Nadu, India
-kalanidhimurugan@gmail.com
+📍 Tirupur, Tamil Nadu, India
+📧 kalanidhimurugan@gmail.com
 ```
 
 <a href="mailto:kalanidhimurugan@gmail.com">
-<img src="https://img.shields.io/badge/SEND%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
 </a>
 
 ---
 
-# 🎮 Developer Easter Egg
+# 🎮 11 — Engineering Easter Egg
 
-The portfolio includes a hidden developer-oriented interaction based on the classic Konami Code:
+A hidden Konami-code interaction is included:
 
 ```text
 ↑ ↑ ↓ ↓ ← → ← → B A
 ```
 
-The interaction is designed as a subtle visual Easter egg rather than a core portfolio feature.
+Triggering the sequence activates a subtle engineering-themed visual effect.
+
+Because even developer portfolios deserve a little fun. ⚡
 
 ---
 
 # 🎨 Design System
 
-The visual direction follows a futuristic engineering aesthetic.
+The visual identity follows a **premium futuristic engineering aesthetic**.
+
+### Visual Language
 
 ```text
-                DARK INTERFACE
-                      +
-                GLASSMORPHISM
-                      +
-                    DEPTH
-                      +
-                  3D VISUALS
-                      +
-                NEON ACCENTS
-                      +
-              MICRO INTERACTIONS
-                      +
-                SMOOTH MOTION
-                      ↓
-          ┌─────────────────────┐
-          │ PREMIUM UI/UX       │
-          └─────────────────────┘
+Dark Interface
+      +
+Glassmorphism
+      +
+Depth
+      +
+3D Visuals
+      +
+Neon Accents
+      +
+Micro Interactions
+      +
+Smooth Motion
+      =
+Premium Developer Experience
 ```
 
 ### Design Principles
 
 - High contrast
 - Clear typography
+- Minimal visual clutter
+- Strong information hierarchy
 - Consistent spacing
 - Responsive layouts
-- Strong information hierarchy
-- Purposeful animation
-- Keyboard accessibility
-- Reduced-motion support
-- Mobile-friendly fallbacks
-- Performance-conscious rendering
+- Motion with purpose
+- Accessible interactions
+- Mobile-first fallbacks
 
 ---
 
-# 📂 Project Structure
+# 🧱 Technology Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Technologies">
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" alt="Backend Technologies">
+
+### AI & Cloud
+
+<img src="https://skillicons.dev/icons?i=python,docker,jenkins,gcp,aws,terraform" alt="Cloud and DevOps Technologies">
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools">
+
+</div>
+
+---
+
+# 📂 Project Architecture
 
 ```text
 kalanidhi-portfolio/
@@ -780,14 +759,23 @@ kalanidhi-portfolio/
         ├── modules/
         │   ├── navigation.js
         │   ├── theme.js
+        │   ├── hero3d.js
         │   ├── terminal.js
         │   ├── commandPalette.js
         │   ├── projects.js
         │   ├── architecture.js
+        │   ├── techStackShowcase.js
+        │   ├── aboutNarrative.js
+        │   ├── certifications.js
+        │   ├── resumeViewer.js
         │   ├── aiAssistant.js
         │   ├── devMode.js
         │   ├── contact.js
-        │   └── easterEgg.js
+        │   ├── easterEgg.js
+        │   ├── customCursor.js
+        │   ├── magnetic.js
+        │   ├── motion.js
+        │   └── scrollProgress.js
         │
         └── utils/
             └── analytics.js
@@ -795,44 +783,111 @@ kalanidhi-portfolio/
 
 ---
 
-# ⚙️ Local Development
+# 🛠️ How This Project Was Made
 
-## Requirements
+This portfolio was engineered from the ground up as a **high-performance, interactive developer application** rather than a typical static resume template. Below is an in-depth breakdown of how the project was conceived, architected, developed, and deployed.
 
-```text
+### 🎯 1. Architectural Philosophy & Strategy
+
+1. **Dual-Audience User Experience (Recruiter + Developer)**:
+   - **Recruiter Fast Path:** 10-second quick summary ribbon, one-click PDF resume viewer/download, verified education, internship highlights at Sangam Soft Solutions, and structured project cards with direct GitHub / live links.
+   - **Developer Deep Dive:** Interactive Three.js 3D core, full Linux-style CLI terminal, keyboard-first `Ctrl+K` command palette, interactive multi-tier system architecture visualizer, and a dedicated Developer Mode toggle revealing technical blueprints and API contracts.
+2. **Vanilla Core with Zero Heavy Framework Overhead**:
+   - Built with pure **HTML5, Modern CSS3 variables & utilities, and modular ES6 JavaScript**, avoiding heavy SPA runtime overhead (such as React or Angular) to achieve sub-second load times and silky 60fps animations.
+   - Enhanced with **Three.js** for hardware-accelerated 3D graphics and **GSAP** for fluid micro-interactions and magnetic button physics.
+3. **Decoupled Data Architecture**:
+   - All profile data, projects, case studies, skills, and AI knowledge are decoupled from the DOM and maintained in structured JavaScript modules ([`portfolioData.js`](src/js/data/portfolioData.js) and [`aiKnowledge.js`](src/js/data/aiKnowledge.js)).
+
+---
+
+### 🧱 2. Development Workflow & Implementation Phases
+
+The project was constructed in five systematic phases:
+
+#### Phase 1: Planning & Data Modeling
+- Defined candidate information architecture: Education (Anna University CSE, Konghu Velalar Distinction), Sangam Soft Solutions internship, hackathons (Daimler Innovation Award, SIH, India.RUN), placement leadership, certifications, and technical projects.
+- Modeled structured JSON/JS schemas in `portfolioData.js` including case study breakdowns (Problem, Solution, Architecture, Features, Learnings, Tech stack).
+- Created a curated Q&A knowledge base in `aiKnowledge.js` for the zero-hallucination portfolio AI assistant.
+
+#### Phase 2: Design System & CSS Foundation
+- **`variables.css`**: Defined the cybernetic dark color palette (deep void background `#050811`, electric cyan `#00f0ff`, neon purple `#8b5cf6`, emerald green `#10b981`), typography scale, glassmorphic blur variables, and responsive spacing tokens.
+- **`base.css`**: Set global resets, custom scrollbars, typography defaults, and accessibility primitives.
+- **`components.css`**: Built reusable atomic UI elements — glass cards, neon badges, interactive terminal shell, command palette modal, recruiter pills, and buttons.
+- **`sections.css`**: Styled full-bleed page layouts, responsive grids, experience timeline, and project showcase.
+- **`dev-mode.css`**: Styled the developer-only inspection mode, highlighting system metrics, endpoints, and architectural blueprints.
+
+#### Phase 3: Interactive Module Engineering
+- **3D Developer Core (`hero3d.js`)**:
+  - Implemented using Three.js with an interactive particle nucleus, orbiting technology rings, and mouse/touch rotation.
+  - Included a lightweight 2D canvas fallback for low-power devices and graceful degradation if WebGL is unavailable.
+- **Interactive Terminal (`terminal.js`)**:
+  - Built a Linux-like CLI shell supporting commands (`help`, `skills`, `projects`, `cat resume`, `sudo hire kalanidhi`, `devmode`, `clear`).
+  - Added command history (Up/Down arrow navigation) and clickable quick-command suggestion pills.
+- **Global Command Palette (`commandPalette.js`)**:
+  - Integrated keyboard-first navigation via `Ctrl + K` or `Cmd + K`.
+  - Fuzzy-searchable index of all portfolio pages, projects, social profiles, and utility actions.
+- **Interactive System Architecture Visualizer (`architecture.js`)**:
+  - Engineered an interactive multi-tier visualization (Client Tier ↔ API Gateway ↔ Business Logic ↔ Persistence Layer) allowing users to click and inspect each tier's protocols, security, and data flow.
+- **Detailed Project Case Study Modal (`projects.js`)**:
+  - Implemented dynamic project filtering (All, Full Stack, AI, Cloud/DevOps) with expandable deep-dive modals explaining problems, architectural diagrams, solutions, and code repositories.
+- **Grounded AI Assistant (`aiAssistant.js`)**:
+  - Engineered an in-browser conversational bot strictly bounded by `aiKnowledge.js` with zero-hallucination guardrails to accurately represent Kalanidhi's verified credentials.
+- **Developer Mode Toggle (`devMode.js`)**:
+  - Switches UI state from recruiter presentation mode to technical inspection mode, revealing underlying architectures, system payloads, and engineering notes.
+
+#### Phase 4: Ergonomics & Micro-Interactions
+- Implemented smooth GSAP entrance reveals and magnetic button physics (`magnetic.js`).
+- Created custom cyber cursor with hover states (`customCursor.js`) disabled on touch devices.
+- Built a secure client-side contact form with honeypot spam protection and instant feedback toasts (`contact.js`).
+- Added the classic Konami code easter egg (`↑ ↑ ↓ ↓ ← → ← → B A`) in `easterEgg.js`.
+
+#### Phase 5: Build Tooling, Bundling & CI/CD Deployment
+- **Bundler Configuration (`vite.config.js`)**:
+  - Configured Vite with `base: './'` for seamless relative asset resolution across GitHub Pages sub-paths.
+  - Automated asset hashing, minification, and tree-shaking into the `./dist` folder.
+- **Automated CI/CD Pipeline (`.github/workflows/deploy.yml`)**:
+  - Configured GitHub Actions to automatically trigger on push to `main`/`master`.
+  - Runs `npm ci`, builds production assets via `npm run build`, and deploys `./dist` to GitHub Pages with zero manual intervention.
+
+---
+
+# ⚙️ Run Locally
+
+## Prerequisites
+
+For the Vite development workflow:
+
+```bash
 Node.js
 npm
-Git
 ```
 
-## Clone
+### 1. Clone
 
 ```bash
 git clone https://github.com/kala3013/kalanidhi-portfolio.git
 cd kalanidhi-portfolio
 ```
 
-## Install Dependencies
+### 2. Install
 
 ```bash
 npm install
 ```
 
-## Development Server
+### 3. Start Development Server
 
 ```bash
 npm run dev
 ```
 
-The Vite development server will start locally.
-
-## Production Build
+### 4. Build Production Version
 
 ```bash
 npm run build
 ```
 
-## Preview Production Build
+### 5. Preview Production Build
 
 ```bash
 npm run preview
@@ -840,51 +895,9 @@ npm run preview
 
 ---
 
-# 🌍 Deployment
+# 📄 Resume Setup
 
-The project supports static hosting workflows.
-
-### GitHub Pages
-
-```text
-Git Repository
-      ↓
-Production Build
-      ↓
-dist/
-      ↓
-gh-pages
-      ↓
-GitHub Pages
-      ↓
-🌍 Live Portfolio
-```
-
-### Deploy Command
-
-```bash
-npm run deploy
-```
-
-### GitHub Pages URL
-
-```text
-https://kala3013.github.io/kalanidhi-portfolio/
-```
-
-### Other Hosting Options
-
-| Platform | Workflow |
-|---|---|
-| GitHub Pages | Git-based static deployment |
-| Vercel | Git-based deployment |
-| Netlify | Git-based deployment |
-
----
-
-# 📄 Resume Integration
-
-The production resume can be placed at:
+Place the finalized resume at:
 
 ```text
 public/resume.pdf
@@ -894,13 +907,51 @@ The portfolio can then provide:
 
 ```text
 VIEW RESUME
-     +
+      +
 DOWNLOAD RESUME
-     +
+      +
 CAT RESUME
 ```
 
-Replacing the PDF does not require changing the portfolio architecture.
+No application code changes should be required when replacing the PDF.
+
+---
+
+# 🌍 Deployment
+
+The portfolio is designed for deployment on modern static hosting platforms.
+
+### Recommended Platforms
+
+| Platform | Deployment |
+|---|---|
+| Vercel | Git-based deployment |
+| Netlify | Git-based deployment |
+| GitHub Pages | GitHub Actions |
+
+### Vercel
+
+```text
+GitHub Repository
+       ↓
+Vercel
+       ↓
+Build
+       ↓
+Production
+```
+
+### GitHub Pages
+
+```text
+git push
+    ↓
+GitHub Actions
+    ↓
+Vite Build
+    ↓
+GitHub Pages
+```
 
 ---
 
@@ -908,8 +959,7 @@ Replacing the PDF does not require changing the portfolio architecture.
 
 | Shortcut | Action |
 |---|---|
-| `Ctrl + K` | Command Palette |
-| `Cmd + K` | Command Palette |
+| `Ctrl + K` / `Cmd + K` | Open Command Palette |
 | `G P` | Projects |
 | `G S` | Skills |
 | `G A` | About |
@@ -917,7 +967,7 @@ Replacing the PDF does not require changing the portfolio architecture.
 | `G C` | Contact |
 | `G D` | Resume |
 | `T` | Toggle Theme |
-| `D` | Developer Mode |
+| `D` | Toggle Developer Mode |
 | `?` | Command Palette |
 | `Esc` | Close Modal |
 
@@ -925,89 +975,88 @@ Replacing the PDF does not require changing the portfolio architecture.
 
 # 🔐 Security & Privacy
 
-The portfolio follows a security-conscious frontend approach.
+The portfolio follows a lightweight security-conscious approach.
 
-### No Frontend Secrets
+### 🔒 No Frontend Secrets
 
-Private credentials and API keys should never be embedded directly into client-side JavaScript.
+API keys and private credentials should never be embedded directly into client-side JavaScript.
 
-### Contact Protection
+### 🪤 Honeypot Protection
 
-The contact interface can use a honeypot mechanism to reduce automated spam.
+The contact form includes an invisible honeypot field intended to reduce automated spam submissions.
 
-### Analytics
+### 🕵️ Privacy-Friendly Analytics
 
-Analytics functionality is designed around lightweight engagement tracking rather than requiring unnecessary third-party tracking.
+The included analytics module is designed for local/session-based engagement tracking rather than third-party cookie-based tracking.
 
-### Accessibility
+### ♿ Accessibility
 
-The interface is designed with consideration for:
+The interface should support:
 
-```text
-Keyboard Navigation
-Focus States
-Semantic HTML
-ARIA Labels
-Reduced Motion
-Readable Contrast
-Responsive Layout
-```
+- Keyboard navigation
+- Focus states
+- Semantic HTML
+- ARIA labels where necessary
+- Reduced-motion preferences
+- Readable contrast
+- Mobile accessibility
 
 ---
 
-# ⚡ Performance Philosophy
+# 📈 Performance Philosophy
 
-Visual richness should not compromise usability.
+The portfolio prioritizes a balance between **visual richness and engineering performance**.
 
 ```text
 Premium Visuals
-       +
+      +
 Optimized Assets
-       +
-Responsive Rendering
-       +
+      +
 Lazy Loading
-       +
+      +
+Responsive Rendering
+      +
 Reduced Motion
-       +
+      +
 Fallback Experiences
-       ↓
+      ↓
 Better User Experience
 ```
 
-Performance metrics such as Lighthouse scores should only be displayed after measuring the deployed production build.
+Heavy visual effects should never prevent visitors from accessing the actual portfolio information.
+
+> Performance claims such as Lighthouse scores should only be displayed when they have been measured against the deployed production build.
 
 ---
 
-# 🧭 Information Architecture
+# 🧭 Portfolio Information Architecture
 
 ```text
 HOME
  │
- ├── ABOUT
+ ├── About
  │
- ├── SKILLS
+ ├── Skills
  │
- ├── EXPERIENCE
+ ├── Experience
  │
- ├── PROJECTS
- │    │
- │    ├── TalentRank AI
+ ├── Projects
+ │    ├── Candidate Ranking System
  │    ├── AI Code Analyzer
- │    ├── Thamarai Hospital
+ │    ├── Thamarai Hospital Management
  │    ├── Certificate Generation
- │    ├── Pediatric Hospital
+ │    ├── Pediatric Hospital Management
  │    └── Research Answer Bot
  │
- ├── ARCHITECTURE
+ ├── Architecture
  │
- ├── CERTIFICATIONS
+ ├── Certifications
  │
- ├── ACHIEVEMENTS
+ ├── Achievements
  │
- ├── RESUME
+ ├── Resume
  │
- └── CONTACT
+ └── Contact
 ```
 
 ---
@@ -1016,15 +1065,15 @@ HOME
 
 ### 🥇 Daimler — Best for Innovation
 
-`2024`
+**2024**
 
 ### 🚀 Smart India Hackathon
 
-`Round 2 — 2025`
+**Round 2 — 2025**
 
 ### 💡 India.RUN Hackathon
 
-`Participant — 2026`
+**Participant — 2026**
 
 ---
 
@@ -1032,28 +1081,27 @@ HOME
 
 Selected learning experiences include:
 
-```text
-Google Data Analytics
-Google Cybersecurity
-IBM Generative AI in Action
-Oracle Cloud Infrastructure
-AWS Cloud Workshop
-Applied Generative AI Training
-Placement & Technical Training
-Cloud Computing
-```
+- Google Cloud Cybersecurity
+- Google Cloud Data Analytics
+- IBM Generative AI in Action
+- Celonis AI Foundations
+- UiPath Agentic Automation Developer Associate Training
+- Oracle Cloud Infrastructure
+- AWS Cloud Workshop
+- Applied Generative AI Workshop
+- Placement & Technical Training
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
-## Full Stack Development Intern
+### Full Stack Development Intern
 
 **Sangam Soft Solutions — Coimbatore**
 
 `June 2026`
 
-Worked on web development and redesign activities using:
+Worked on web development and redesign activities using technologies including:
 
 ```text
 React
@@ -1062,169 +1110,64 @@ Git
 VS Code
 ```
 
-The internship included work around the **Code Infinite website**, including:
+The internship included work around the **Code Infinite website**, including sections such as:
 
-```text
-Home
-About
-Training & Courses
-Services
-Forms
-Gallery
-Blog
-```
+- Home
+- About
+- Training & Courses
+- Services
+- Forms
+- Gallery
+- Blog
 
 ---
 
 # 👑 Leadership
 
-## CSE Placement Coordinator
+### CSE Placement Coordinator
 
-Placement coordination responsibilities include:
+Responsible for supporting placement-related coordination activities including:
 
 ```text
 Placement Announcements
-        ↓
+       ↓
 Technical Training Coordination
-        ↓
+       ↓
 Assessment Communication
-        ↓
+       ↓
 Mock Interview Coordination
-        ↓
+       ↓
 Student Communication
 ```
 
-Additional roles:
+Also served as:
 
-```text
-Class Placement Representative
-CSE Committee Member
-```
+- Class Placement Representative
+- CSE Committee Member
 
 ---
 
-# 📈 Developer Journey
-
-```text
-DIPLOMA
-   │
-   ▼
-COMPUTER ENGINEERING
-   │
-   ▼
-B.E. COMPUTER SCIENCE
-   │
-   ▼
-FULL STACK DEVELOPMENT
-   │
-   ▼
-AI & GENERATIVE AI
-   │
-   ▼
-CLOUD & DEVOPS
-   │
-   ▼
-SOFTWARE ENGINEERING
-   │
-   ▼
-CONTINUOUS LEARNING
-```
-
----
-
-# 🧠 Engineering Mindset
-
-```text
-UNDERSTAND
-    ↓
-DESIGN
-    ↓
-BUILD
-    ↓
-TEST
-    ↓
-DEBUG
-    ↓
-OPTIMIZE
-    ↓
-DOCUMENT
-    ↓
-DEPLOY
-    ↓
-LEARN
-```
-
-> **Good software is not only about writing code. It is about understanding the problem, designing the solution, building it carefully, and continuously improving it.**
-
----
-
-# 📌 Project Philosophy
-
-Every project is an opportunity to improve at least one engineering capability.
-
-```text
-PROJECT
-   │
-   ├── Problem Solving
-   ├── Architecture
-   ├── Coding
-   ├── Debugging
-   ├── Database Design
-   ├── API Development
-   ├── UI/UX
-   ├── Deployment
-   └── Documentation
-```
-
----
-
-# 🔭 Current Direction
-
-```text
-Java + DSA
-      +
-Full Stack Development
-      +
-React
-      +
-Backend Architecture
-      +
-Generative AI
-      +
-Cloud Computing
-      +
-Docker
-      +
-CI/CD
-      ↓
-SOFTWARE ENGINEERING
-```
-
----
-
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <div align="center">
 
-## Let's Build Something Meaningful.
-
-<br>
+### Let's Build Something Meaningful.
 
 <a href="https://github.com/kala3013">
-<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/kalanidhi-m-c-b568782a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="mailto:kalanidhimurugan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Kalanidhi%20M%20C-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Kalanidhi%20M%20C-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
 
-`Software Development` · `Full Stack` · `AI` · `Cloud` · `DevOps`
+**Software Development · Full Stack · AI · Cloud · DevOps**
 
 </div>
 
@@ -1238,10 +1181,6 @@ This project is available under the **MIT License**.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=BUILD;LEARN;EXPERIMENT;IMPROVE;SHIP;REPEAT"/>
-
-<br><br>
-
 ### ⚡ Designed & Engineered by Kalanidhi M C
 
 ```text
@@ -1251,5 +1190,3 @@ BUILD → LEARN → EXPERIMENT → IMPROVE → SHIP
 **© 2026 Kalanidhi M C**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06b6d4,30:0891b2,65:2563eb,100:020617&animation=fadeIn"/>
