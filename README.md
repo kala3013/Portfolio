@@ -1,30 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,30:0f172a,65:1d4ed8,100:06b6d4&text=KALANIDHI%20M%20C&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20AI%20%7C%20CLOUD%20%7C%20DEVOPS&descAlignY=62&descSize=15&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=BUILDING+PRACTICAL+SOFTWARE;FULL+STACK+DEVELOPMENT;EXPLORING+AI+%26+GENERATIVE+AI;LEARNING+CLOUD+%26+DEVOPS;TURNING+IDEAS+INTO+APPLICATIONS;BUILD+%E2%86%92+LEARN+%E2%86%92+IMPROVE+%E2%86%92+SHIP"/>
-
-<br><br>
-
-<a href="https://github.com/kala3013">
-<img src="https://img.shields.io/badge/GitHub-kala3013-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/kalanidhi-m-c-b568782a5/">
-<img src="https://img.shields.io/badge/LinkedIn-Kalanidhi%20M%20C-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:kalanidhimurugan@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kala3013&label=PROFILE%20VIEWS&style=for-the-badge&color=0891b2"/>
-
-</div>
-
----
 
 # ⚡ Kalanidhi M C — Interactive Developer Portfolio
 
