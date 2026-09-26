@@ -31,54 +31,52 @@ import { initContact } from './modules/contact.js';
 import { initEasterEgg } from './modules/easterEgg.js';
 import { trackEvent } from './utils/analytics.js';
 
-function initApp() {
+function safeRun(fn, label) {
   try {
-    // 1. Core Visual & Interactive Systems
-    initTheme();
-    initNavigation();
-    initScrollProgress();
-    initCustomCursor();
-    initDevMode();
-    initCommandPalette();
-    initTerminal();
-    initProjects();
-    initArchitectureVisualizer();
-    initTechStackShowcase();
-    initAboutNarrative();
-    initCertifications();
-    initResumeViewer();
-    initAiAssistant();
-    initContact();
-    initEasterEgg();
-
-    // 2. 3D Developer Core, Motion Engine & Magnetic Micro-interactions
-    initHero3D();
-    initMagneticButtons();
-    initMotion();
-
-    // 3. Dynamic Content Ingestion
-    renderRecruiterRibbon();
-    renderSkillsDashboard();
-    renderStrengths();
-    renderInternship();
-    renderCareerTimeline();
-    renderAchievements();
-    renderLeadership();
-    renderEducation();
+    fn();
   } catch (err) {
-    console.error('Initialization error:', err);
-  } finally {
-    // 4. Always Remove Preloader - Guaranteed
-    const preloader = document.getElementById('preloader');
-    if (preloader) {
-      preloader.style.opacity = '0';
-      preloader.style.pointerEvents = 'none';
-      setTimeout(() => preloader.remove(), 350);
-    }
+    console.warn(`[Init] ${label || fn.name} non-critical warning:`, err);
   }
+}
+
+function initApp() {
+  // 1. Ingest Content Immediately (Recruiter pills, skills, stats, experience)
+  safeRun(renderRecruiterRibbon, 'renderRecruiterRibbon');
+  safeRun(renderSkillsDashboard, 'renderSkillsDashboard');
+  safeRun(renderStrengths, 'renderStrengths');
+  safeRun(renderInternship, 'renderInternship');
+  safeRun(renderCareerTimeline, 'renderCareerTimeline');
+  safeRun(renderAchievements, 'renderAchievements');
+  safeRun(renderLeadership, 'renderLeadership');
+  safeRun(renderEducation, 'renderEducation');
+
+  // 2. Interactive Navigation, Theme & Modals
+  safeRun(initTheme, 'initTheme');
+  safeRun(initNavigation, 'initNavigation');
+  safeRun(initScrollProgress, 'initScrollProgress');
+  safeRun(initProjects, 'initProjects');
+  safeRun(initArchitectureVisualizer, 'initArchitectureVisualizer');
+  safeRun(initTechStackShowcase, 'initTechStackShowcase');
+  safeRun(initAboutNarrative, 'initAboutNarrative');
+  safeRun(initCertifications, 'initCertifications');
+  safeRun(initResumeViewer, 'initResumeViewer');
+  safeRun(initContact, 'initContact');
+  safeRun(initCommandPalette, 'initCommandPalette');
+  safeRun(initTerminal, 'initTerminal');
+  safeRun(initAiAssistant, 'initAiAssistant');
+  safeRun(initDevMode, 'initDevMode');
+  safeRun(initEasterEgg, 'initEasterEgg');
+
+  // 3. Motion & Micro-interactions
+  safeRun(initCustomCursor, 'initCustomCursor');
+  safeRun(initMagneticButtons, 'initMagneticButtons');
+  safeRun(initMotion, 'initMotion');
+
+  // 4. 3D Canvas Core (Runs asynchronously without blocking UI)
+  safeRun(initHero3D, 'initHero3D');
 
   // 5. Initial Visit Analytics
-  trackEvent('portfolio_loaded', { userAgent: navigator.userAgent.substring(0, 50) });
+  safeRun(() => trackEvent('portfolio_loaded', { userAgent: navigator.userAgent.substring(0, 50) }), 'analytics');
 }
 
 if (document.readyState === 'loading') {
