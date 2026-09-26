@@ -9,6 +9,9 @@
 </p>
 
 <p>
+  <a href="https://kala3013.github.io/kalanidhi-portfolio/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-Visit_Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live Website">
+  </a>
   <a href="https://github.com/kala3013">
     <img src="https://img.shields.io/badge/GitHub-kala3013-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -21,7 +24,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Production%20Ready-38bdf8?style=flat-square" alt="Status">
+  <a href="https://github.com/kala3013/kalanidhi-portfolio/actions/workflows/deploy.yml">
+    <img src="https://github.com/kala3013/kalanidhi-portfolio/actions/workflows/deploy.yml/badge.svg" alt="Deployment Status">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Always%20Live-22c55e?style=flat-square" alt="Status">
   <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20ES%20Modules-3b82f6?style=flat-square" alt="Stack">
   <img src="https://img.shields.io/badge/Responsive-Yes-22c55e?style=flat-square" alt="Responsive">
   <img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License">
@@ -30,6 +36,8 @@
 <br>
 
 > **A high-end interactive developer portfolio engineered to showcase software projects, technical skills, engineering thinking, and professional growth.**
+> 
+> 🌐 **Live Website Link:** **[https://kala3013.github.io/kalanidhi-portfolio/](https://kala3013.github.io/kalanidhi-portfolio/)**
 
 <br>
 
